@@ -10,11 +10,11 @@ This mini game, or interaction as I so call it, was developed to be part of an E
 - Piezzo Speaker (1x);
 - Arduino Nano (1x);
 
-![WiringDiagram](images\CoordinatedRFIDCardsElectricalSchematic_bb.jpg)
+![WiringDiagram](images/CoordinatedRFIDCardsElectricalSchematic_bb.jpg)
 
 In order to fully assemble the Interaction, so as to look like the picture below, you will also need to 3D Print the enclosure that can be found [here](enclosure/).
 
-![AssembledInteraction](images\AssembledInteraction.jpg)
+![AssembledInteraction](images/AssembledInteraction.jpg)
 
 ## The Purpose of The Game
 
